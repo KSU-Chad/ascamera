@@ -98,7 +98,7 @@ cd ..
 Source the environment:
 
 ```bash
-. ./install/setup.bash
+source install/setup.bash
 ```
 
 ---
