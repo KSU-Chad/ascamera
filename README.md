@@ -16,7 +16,7 @@
 Clone into your project directory (you know which one):
 
 ```bash
-git clone git@github.com:KSU-Chad/ascamera.git
+git clone https://github.com/KSU-Chad/ascamera.git
 cd ascamera
 ```
 
